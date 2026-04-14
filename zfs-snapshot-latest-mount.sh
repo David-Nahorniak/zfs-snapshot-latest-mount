@@ -11,8 +11,8 @@
 
 # Format: "pool/dataset"
 DATASETS=(
-    "DNsrv-truenas-ssd/nextcloud"
-    "DNsrv-truenas-ssd/immich"
+    "tank/nextcloud"
+    "tank/immich"
 )
 
 # Docker containers to restart after mount changes
